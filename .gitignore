@@ -1,0 +1,7 @@
+.mono/
+.vs/
+.import/
+.idea/
+mono_crash.*.json
+.directory
+config.json
